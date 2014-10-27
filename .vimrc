@@ -11,7 +11,10 @@ if has("gui_running")
 endif
 
 " set tab size
-set ts=2
+set ts=4
+
+" enable syntax
+syntax on
 
 set autoindent
 set smartindent
